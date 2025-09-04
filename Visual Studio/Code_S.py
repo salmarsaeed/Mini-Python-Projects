@@ -1,0 +1,6 @@
+name="P. Salma R. Sa3ed"
+class_="Prep 2"
+age= "14"
+subject="Computer Science"
+school="Smart School"
+hobby="nothing"
